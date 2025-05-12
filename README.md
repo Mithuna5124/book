@@ -1,19 +1,19 @@
-# 📚 Book Recommender System
+# Book Recommender System
 
 A web-based application that helps users discover books through both **popular suggestions** and **personalized recommendations**, built with **Python, Pandas, and Streamlit**.
 
 ---
 
-## 🚀 Features
+## Features
 
-* 🔥 **Popular Books**: See what's trending among readers.
-* 🎯 **Personalized Recommendations**: Get suggestions based on your interests.
-* 🧠 **Content & Collaborative Filtering**: Utilizes both basic and advanced recommender techniques.
-* 💡 **Simple Interface**: Easy-to-use Streamlit interface for seamless user interaction.
+*  **Popular Books**: See what's trending among readers.
+*  **Personalized Recommendations**: Get suggestions based on your interests.
+*  **Content & Collaborative Filtering**: Utilizes both basic and advanced recommender techniques.
+*  **Simple Interface**: Easy-to-use Streamlit interface for seamless user interaction.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Backend**: Python, Pandas
 * **Frontend/UI**: Streamlit
