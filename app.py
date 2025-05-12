@@ -95,7 +95,7 @@ import streamlit as st
 if st.sidebar.button("LinkedIn"):
     st.markdown(
         """
-        <meta http-equiv="refresh" content="0; url=https://www.linkedin.com/in/mithuna-k-01bb94261/" />
+        <meta http-equiv="refresh" content="0; url="https://www.linkedin.com/in/mithuna-k-01bb94261/" />
         """,
         unsafe_allow_html=True,
     )
