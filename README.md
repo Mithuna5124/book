@@ -26,7 +26,7 @@ A web-based application that helps users discover books through both **popular s
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 ├── app.py                # Main Streamlit application
@@ -40,14 +40,14 @@ A web-based application that helps users discover books through both **popular s
 
 ---
 
-## 📊 How It Works
+##  How It Works
 
 * **Popular Books Tab**: Displays top-rated books based on average ratings and number of votes.
 * **Personalized Recommendations Tab**: User selects a book they like, and the system suggests similar books using vector similarity or rating correlations.
 
 ---
 
-## 🔧 Setup Instructions
+## Setup Instructions
 
 1. Clone the repository:
 
@@ -70,7 +70,7 @@ A web-based application that helps users discover books through both **popular s
 
 ---
 
-## 📈 Future Improvements
+##  Future Improvements
 
 * Add user authentication for persistent personalization
 * Integrate collaborative filtering using matrix factorization or SVD
@@ -79,12 +79,12 @@ A web-based application that helps users discover books through both **popular s
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions, feedback, and suggestions are welcome!
 
 ---
 
-## 📬 Contact
+##  Contact
 
 For inquiries or collaboration, reach out at **\[[mithunak56557@gmail.com](mailto:mithunak56557@gmail.com)]**
